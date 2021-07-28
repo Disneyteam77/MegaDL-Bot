@@ -89,7 +89,7 @@ async def about(bot, message, cb=False):
         InlineKeyboardButton(f'⌛️ STATUS', url=f'https://t.me/{Config.LOG_CHANNEL_UNAME}'),
         InlineKeyboardButton(f'CLOSE 🔐', callback_data="close")
         ],[
-        InlineKeyboardButton(f'👨‍💻Developer👨‍💻, url='https://t.me/doreamonfans1')
+        InlineKeyboardButton(f'Support, url='https://t.me/doreamonfans1')
     ]]
     reply_markup = InlineKeyboardMarkup(button)
     if cb:
