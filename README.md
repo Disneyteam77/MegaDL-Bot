@@ -19,7 +19,7 @@ A Simple Telegram Bot By @doreamonfans1 to Download Files From Mega.nz and Uploa
 Deploy Your Own Bot ♥️ **Star 🌟 Fork 🍴 & Deploy**
 
 ### Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/disneyteam77/MegaDL-Bot/tree/patch-1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/disneyteam77/MegaDL-Bot/tree/main)
 
 ### Self Host
 
