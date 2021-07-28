@@ -25,8 +25,6 @@ async def help(bot, message, cb=False):
         ],[
         InlineKeyboardButton(f'⌛️ STATUS', url=f'https://t.me/{Config.LOG_CHANNEL_UNAME}'),
         InlineKeyboardButton(f'CLOSE 🔐', callback_data='close')
-        ],[
-        InlineKeyboardButton(f'source code, url='https://t.me/doreamonfans1')
     ]]
     reply_markup = InlineKeyboardMarkup(button)
     if cb:
