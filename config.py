@@ -39,7 +39,7 @@ I Can Download Files & Videos From Mega Links & Upload To Telegram. Just Send Me
 
 **Note That:** When Starting Download One Mega Link, Bot Can Be Unresponsive For Other Users. See **@{log_chnl}** To Check If Another Task Is Running or Not. If You See **Bot Become Busy Now !!** Message As The Last Message Of The Channel, Please Wait Until You See The **Bot Become Free Now !!** Message. I Can't Upload Files Large Than `2.0 GB` As Telegram Upload Limitation!
 
-**Made With ❤️ In 🇮🇳 By [Doreamonfans](https://t.me/doreamonfans1)!**
+**Made With ❤️ In 🇮🇳 By [Bot Boxing](https://t.me/doreamonfans1)!**
 Feel Free To Say Buys or Any feature adding😉
 """
 
